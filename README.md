@@ -32,7 +32,8 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 ### How to run notebook:
 *Note: this project was written in python 3.*
 ##### Modules/Libraries needed on local machine to run notebook:
-*Installation instructions include installation using pip. To use conda, replace 'pip' with 'conda'.*
+*Installation instructions use pip. To use anaconda, replace 'pip' with 'conda'.*
+- jupyter notebook: ```pip install notebook```
 - requests: ```pip install requests```
 - pandas: ```pip install pandas```
 - dateutil: ```pip install python-dateutil```
@@ -41,16 +42,6 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 
 
 
-
-
-### How to run notebook:
-
-***If jupyter notebook is already installed on your machine, skip to #3***
-#### 1. From terminal or command line, install jupyter notebook with pip:
-```
-pip install notebook
-```
-#### 2. :
 
 
 

@@ -1,5 +1,4 @@
-# spacexdata
-## Data Analysis and Visualization of SpaceX Data
+# Data Analysis and Visualization of SpaceX Data
 
 #### Project Inspiration
 In the 1960's, the scientists, engineers, math 'computers', and astronauts at NASA proved to the country and to the world that space exploration was the next big adventure for humankind. The culmination of thousands of training hours, hundreds of errors, and out-of-the-box problem-solving paved the way to arguably one of the greatest feats of humankind - a moon landing. Never before had the human race stepped foot on another celestial body. But, in 1969 they found the right combination of intellect, determination, passion, grit, ingenuity, and persistence to get it done. 
@@ -21,6 +20,16 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 - Time remaining until upcoming flights as of time of application execution
 - Upcoming rocket usage breakdown
 - Upcoming payload breakdown
+
+#### Features Included:
+1. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
+2. Create and call at least 3 functions, at least one of which must return a value that is used
+3. Connect to an external/3rd party API and read data into your app
+4. Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event)
+5. Visualize data in a graph, chart, or other visual representation of data
+6. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
+
+
 
 
 

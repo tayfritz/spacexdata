@@ -23,11 +23,10 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 
 ### Features included:
 1. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
-2. Create and call at least 3 functions, at least one of which must return a value that is used
-3. Connect to an external/3rd party API and read data into your app
-4. Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event)
-5. Visualize data in a graph, chart, or other visual representation of data
-6. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
+2. Connect to an external/3rd party API and read data into your app
+3. Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event)
+4. Visualize data in a graph, chart, or other visual representation of data
+5. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
 
 ### How to run notebook:
 *Note: this project was written in python 3. Ensure you have most updated python version downloaded on your machine.*

@@ -8,7 +8,7 @@ Though there were only 6 successful missions, spanning only three years, that wo
 Fast forward past the shuttle era, the creation of the ISS, and the deployment of Hubble, and we find ourselves in a new age of space exploration. Now, alongside the government-funded NASA, we have private companies joining in on the future of the space industry. One company in particular is leading the way in this new venture and has captured the hearts and minds of a new generation of space enthusiasts.
 
 ### Project Information
-SpaceX is a private company paving the way in commercial space flight in collaboration with NASA's Commercial Crew Program. This purpose of this project, by way of jupyter notebook, is to gather, analyze, and visualization SpaceX data using an open source REST API through r/SpaceX. Specifically this project highlights past launch and upcoming launch data. The data of interest that you will find here are as follows:
+SpaceX is a private company paving the way in commercial space flight in collaboration with NASA's Commercial Crew Program. The purpose of this project, by way of jupyter notebook, is to gather, analyze, and visualization SpaceX data using an open source REST API through r/SpaceX. Specifically this project highlights past launch and upcoming launch data. The data of interest that you will find here are as follows:
 
 ***Past Launch Data:***
 - First SpaceX launch & most recent launch date and mission details
@@ -32,7 +32,7 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 ### How to run notebook:
 *Note: this project was written in python 3. Ensure you have most updated python version downloaded on your machine.*
 *Check python version using terminal: ```python --version```*
-*If an upgrade is needed, consult the [download guide](https://wiki.python.org/moin/BeginnersGuide/Download) in the Python docs.
+*If an upgrade is needed, consult the [download guide](https://wiki.python.org/moin/BeginnersGuide/Download) in the Python docs.*
 
 #### 1. Import necessary libraries/modules to local machine: 
 *Installation instructions use pip. To use anaconda, replace 'pip' with 'conda'.*

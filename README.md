@@ -30,8 +30,8 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 6. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
 
 ### How to run notebook:
-*Note: this project was written in python 3.*
-##### Modules/Libraries needed on local machine to run notebook:
+*Note: this project was written in python 3*
+#### Modules/Libraries needed on local machine to run notebook:
 *Installation instructions use pip. To use anaconda, replace 'pip' with 'conda'.*
 - jupyter notebook: ```pip install notebook```
 - requests: ```pip install requests```
@@ -40,6 +40,11 @@ SpaceX is a private company paving the way in commercial space flight in collabo
 - matplotlib: ```pip install matplotlib```
 - numpy: ```pip install numpy```
 
+### Additional ideas to project:
+
+
+### Sources
+1. API used was supplied by [r/SpaceX](https://github.com/r-spacex) open-source REST API. View API docs [here](https://docs.spacexdata.com/#intro).
 
 
 
